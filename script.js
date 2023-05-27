@@ -5,7 +5,7 @@ let ready = true
 
 // Unsplash API
 const count = 10;
-const apiKey = "6Y-L1g-m3gAf9vXxSFmbcBCOE9ATpxvH4KTWD0HSu8k"
+const apiKey = "ddMH-ah_r3SIL71LcvcTAJP39GjWa6oarh9yQo7bZ8Y"
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
 
 //  create  Elemnts for Links & Photo, add to DOM
